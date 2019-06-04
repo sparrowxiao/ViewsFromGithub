@@ -8,7 +8,7 @@ https://developer.apple.com/documentation/foundation/url_loading_system/fetching
 
 I named a function getHTMLContent()
 
-Day1:
+Day2:
 - [ ] Github REST API 
 So far the latest Github REST API version is here[https://developer.github.com/v3/]
 Sometimes I  check the traffic of my public repos, as we know, if you want to check the numbers of views from website, you have to click the repo > insights > Traffic, too many clicks. To me, yes if I want to check it everyday.
